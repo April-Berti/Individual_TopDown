@@ -1,5 +1,6 @@
-2026/10/15-17:14:47.410 45c4 Log #3: 16 ops saved to Table #4 OK
-2026/10/15-17:14:47.412 45c4 Archiving D:\Tecnoteca\Desktop\Proyectos de github\Individual_TopDown\Saved\webcache_6613_1\Default\Site Characteristics Database/000003.log: OK
-2026/10/15-17:14:47.412 45c4 Table #4: 16 entries OK
-2026/10/15-17:14:47.413 45c4 Archiving D:\Tecnoteca\Desktop\Proyectos de github\Individual_TopDown\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/10/15-17:14:47.418 45c4 **** Repaired leveldb D:\Tecnoteca\Desktop\Proyectos de github\Individual_TopDown\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 1 files; 355 bytes. Some data may have been lost. ****
+2026/10/15-19:30:11.043 2cdc Log #6: 1 ops saved to Table #7 OK
+2026/10/15-19:30:11.067 2cdc Archiving C:\Users\Tecnoteca\Documents\GitHub\Individual_TopDown\Saved\webcache_6613_1\Default\Site Characteristics Database/000006.log: OK
+2026/10/15-19:30:11.068 2cdc Table #4: 16 entries OK
+2026/10/15-19:30:11.069 2cdc Table #7: 1 entries OK
+2026/10/15-19:30:11.074 2cdc Archiving C:\Users\Tecnoteca\Documents\GitHub\Individual_TopDown\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/15-19:30:11.082 2cdc **** Repaired leveldb C:\Users\Tecnoteca\Documents\GitHub\Individual_TopDown\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 2 files; 517 bytes. Some data may have been lost. ****
