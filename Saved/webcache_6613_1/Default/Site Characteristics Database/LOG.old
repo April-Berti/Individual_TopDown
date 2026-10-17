@@ -1,7 +1,1 @@
-2026/10/16-19:04:43.785 34c8 Log #9: 1 ops saved to Table #10 OK
-2026/10/16-19:04:43.837 34c8 Archiving F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\Site Characteristics Database/000009.log: OK
-2026/10/16-19:04:43.838 34c8 Table #4: 16 entries OK
-2026/10/16-19:04:43.839 34c8 Table #7: 1 entries OK
-2026/10/16-19:04:43.839 34c8 Table #10: 1 entries OK
-2026/10/16-19:04:43.845 34c8 Archiving F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/10/16-19:04:43.908 34c8 **** Repaired leveldb F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 3 files; 679 bytes. Some data may have been lost. ****
+2026/10/16-19:04:43.930 34c8 Reusing MANIFEST F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
