@@ -8618,3 +8618,11 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.19-15.47.34:234][808]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9764D875-4DCC-D5CF-04DF-F097216D63D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.7.4-51494982%2B%2B%2BUE5%2BRelease-5.7&UserID=257cfbe144c7eeec6cb0538c6c680bee%7C947117b1d32f4327959c9fbad1e20f89%7C9fc624df-3439-4ce4-be29-8b5c6eaa2360&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
 [2026.10.19-15.47.34:893][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.19-15.47.34:893][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7813.482910, Update Interval: 316.053345
+[2026.10.19-15.47.35:873][808]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.10.19-15.47.35:919][808]LogXGEController: Cleaning working directory: C:/Users/Abril/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.10.19-15.47.36:002][808]LogPakFile: Destroying PakPlatformFile
+[2026.10.19-15.47.36:037][808]LogD3D11RHI: Shutdown
+[2026.10.19-15.47.36:037][808]LogD3D11RHI: CleanupD3DDevice
+[2026.10.19-15.47.36:298][808]LogD3D11RHI: Intel Extensions Framework unloaded
+[2026.10.19-15.47.36:441][808]LogExit: Exiting.
+[2026.10.19-15.47.36:698][808]Log file closed, 10/19/26 12:47:36
