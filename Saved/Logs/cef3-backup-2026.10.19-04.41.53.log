@@ -1,0 +1,34 @@
+[18284:4972:1019/013927.161:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18284:8920:1019/013927.364:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18284:4972:1019/013927.503:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18284:14392:1019/013944.911:WARNING:leveldb_database.cc(141)] Unable to open F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18284:14392:1019/013944.921:WARNING:leveldb_database.cc(141)] Unable to open F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18284:14392:1019/013944.931:WARNING:leveldb_database.cc(141)] Unable to open F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18284:14392:1019/013944.935:WARNING:leveldb_database.cc(141)] Unable to open F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: F:\Usuario\Desktop\Estudios\DyPdVJ\Trabajos\Programación\TP1\Individual_TopDown\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18284:4972:1019/013953.555:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:14392:1019/013958.077:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18284:14392:1019/013958.084:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16336:15928:1019/013958.544:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-85CC7BD7DBD00D641DA59C24D3B7C284 will be ignored
+[18284:4972:1019/014005.106:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014010.136:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014015.196:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014020.225:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014025.550:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014030.704:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014035.757:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014040.784:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014045.800:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014050.876:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014055.877:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014100.923:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014105.936:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014111.176:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014116.200:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014121.201:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014126.424:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014131.450:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014136.449:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014141.450:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014146.495:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014152.624:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18284:4972:1019/014153.547:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
